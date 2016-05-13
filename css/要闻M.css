@@ -1,0 +1,155 @@
+.FNewRBox {
+	width: 756px;
+}
+
+.FNewM {
+	width: 366px;
+}
+
+.FNewMTop {
+	padding-top: 18px;
+}
+
+.FNewMTop .Tit02 {
+	padding-left: 19px;
+	padding-top: 6px;
+	padding-bottom: 4px;
+}
+
+.FNewMTop .Tit02 a {
+	font-size: 12px;
+}
+
+.FNewMTopLis {
+	margin-top: 4px;
+}
+
+.FNewMTop ul li {
+	padding-left: 19px;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat 6px -687px;
+	height: 28px;
+}
+
+.FNewMTop ul li a {
+	line-height: 28px;
+	font-size: 14px;
+	color: #004276;
+}
+
+.FNewMTop ul li a:hover {
+	color: #f54343;
+	text-decoration: underline;
+}
+
+.FNewMTop ul.VideoUl li {
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat 0 -593px;
+	padding-left: 19px;
+}
+
+.FNewLis a {
+	float: left;
+}
+
+.FNewLisRtab {
+	margin-top: 3px;
+}
+
+.FNewLis a.zixunhome {
+	float: right;
+}
+
+.FNewMBom {
+	padding-left: 6px;
+	padding-top: 12px;
+	border-top: 1px solid #dedede;
+	position: relative;
+	width: 360px;
+	height: 138px;
+	overflow: hidden;
+	margin-top: 20px;
+}
+
+.FNewMBom .Tit02 {
+	padding-left: 13px;
+	padding-bottom: 3px;
+	line-height: 22px;
+	padding-top: 0;
+}
+
+.FNewMBomList {
+	position: absolute;
+	width: 1464px;
+}
+
+.FNewMBomList ul {
+	float: left;
+	width: 366px;
+}
+
+.FNewMBomList ul li {
+	height: 28px;
+	padding-left: 13px;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat 0 -687px;
+}
+
+.FNewMBomList ul li a {
+	line-height: 28px;
+	font-size: 14px;
+	color: #004276;
+}
+
+.FNewMBomList ul li a:hover {
+	color: #f54343;
+	text-decoration: underline;
+}
+
+#buttons {
+	position: absolute;
+	height: 6px;
+	width: 100px;
+	z-index: 2;
+	top: 20px;
+	left: 112px;
+}
+
+#buttons span {
+	cursor: pointer;
+	float: left;
+	width: 6px;
+	height: 6px;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat -400px -800px;
+	margin-right: 7px;
+}
+
+#buttons .on {
+	background-position: -500px -800px;
+}
+
+.arrow01 {
+	cursor: pointer;
+	display: block;
+	width: 14px;
+	height: 14px;
+	position: absolute;
+	z-index: 2;
+	top: 16px;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat;
+}
+
+#prev01 {
+	left: 87px;
+	background-position: 0 -800px;
+}
+
+#prev01:hover {
+	background-position: -200px -800px;
+}
+
+#next01 {
+	right: 172px;
+	background-position: -100px -800px;
+}
+
+#next01:hover {
+	background-position: -300px -800px;
+}

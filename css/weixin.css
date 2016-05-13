@@ -1,0 +1,37 @@
+.weixin,
+.weixinBottom {
+	position: fixed;
+	_position: absolute;
+	display: block;
+	right: 0;
+	width: 120px;
+	height: 185px;
+	z-index: 100;
+	background-color: #FFF
+}
+
+.weixin {
+	top: 450px;
+	_top: expression(documentElement.scrollTop+450);
+}
+
+.weixinBottom {
+	bottom: 0px;
+	_top: expression(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop, 10)||0)-(parseInt(this.currentStyle.marginBottom, 10)||0));
+}
+
+.weixin img,
+.weixinBottom img {
+	float: left;
+	display: block;
+}
+
+.weixin span,
+.weixinBottom span {
+	float: left;
+	color: #999;
+	cursor: pointer;
+	height: 18px;
+	line-height: 18px;
+	padding-left: 4px;
+}

@@ -1,0 +1,30 @@
+.ColGLCon p {
+	font-size: 14px;
+	color: #333;
+	line-height: 32px;
+	margin-top: 12px;
+}
+
+.ColGLCon02 {
+	margin-top: 14px;
+	_margin-top: 15px;
+}
+
+.ColGLCon ul li {
+	line-height: 24px;
+	height: 24px;
+}
+
+.ColGLCon02 ul li {
+	line-height: 22px;
+	height: 22px;
+}
+
+.ColGLCon ul li a {
+	color: #004276;
+}
+
+.ColGLCon ul li a:hover {
+	color: #f54343;
+	text-decoration: underline;
+}

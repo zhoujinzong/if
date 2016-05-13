@@ -1,0 +1,149 @@
+.Footer {
+	margin-top: 18px;
+	text-align: center;
+	padding-bottom: 16px;
+}
+
+.City {
+	color: #666;
+	border-bottom: 2px solid #f54343;
+	line-height: 32px;
+}
+
+.City a {
+	color: #666;
+}
+
+.City a:hover {
+	color: #f54343;
+	text-decoration: underline;
+}
+
+.City .Tit04 {
+	float: left;
+}
+
+.City p {
+	float: right;
+}
+
+.City p span {
+	padding: 0 6px;
+}
+
+.Intro {
+	color: #666;
+	line-height: 32px;
+}
+
+.Intro a {
+	color: #666;
+}
+
+.Intro a:hover {
+	color: #f54343;
+	text-decoration: underline;
+}
+
+.Intro .Tit04 {
+	float: left;
+}
+
+.Intro p {
+	float: right;
+}
+
+.Intro p span {
+	padding: 0 9px;
+}
+
+.Intro p em {
+	padding: 0 6px;
+}
+
+.Copr {
+	color: #999;
+	line-height: 26px;
+	margin-top: 10px;
+}
+
+.Copr a {
+	color: #999;
+	padding-right: 8px;
+}
+
+.Copr a:hover {
+	color: #f54343;
+	text-decoration: underline;
+}
+
+.Copr span {
+	padding: 0 8px;
+}
+
+.Org {
+	margin-top: 22px;
+}
+
+.Org a {
+	width: 65px;
+	height: 40px;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat;
+	display: block;
+	color: #000;
+	line-height: 16px;
+	padding: 10px 0 0 45px;
+	border: 1px solid #d2d2d2;
+	margin-right: 14px;
+	float: left;
+	text-align: left;
+}
+
+.Org a:hover span {
+	text-decoration: underline;
+	color: #f54343;
+}
+
+.Org a.Org01 {
+	background-position: -9px -1300px;
+}
+
+.Org a.Org02 {
+	background: #fff;
+	padding: 10px 0 0 10px;
+	width: 82px;
+}
+
+.Org a.Org03 {
+	background-position: -203px -1300px;
+	padding: 10px 0 0 52px;
+}
+
+.Org a.Org04 {
+	background-position: -410px -1300px;
+	padding: 10px 0 0 50px;
+	width: 54px;
+}
+
+.Org a.Org05 {
+	background-position: -607px -1300px;
+}
+
+.Org a.Org06 {
+	background-position: -806px -1294px;
+	padding: 1px 0 0 48px;
+	height: 49px;
+}
+
+.Org a.Org07 {
+	background-position: 0px -1400px;
+	color: #FFF;
+	padding: 10px 0 0 68px;
+	width: 52px;
+}
+
+.Org a.Org08 {
+	background: url(http://y1.ifengimg.com/a/2015/1225/logo.gif) no-repeat 6px 6px;
+	padding: 10px 0 0 55px;
+	margin-right: 0;
+}

@@ -1,0 +1,67 @@
+.FNewL {
+	width: 220px;
+	padding-top: 8px;
+}
+
+.FNewLBox {
+	width: 188px;
+	height: 801px;
+	border: 1px solid #dedede;
+	padding: 0 15px;
+}
+
+.FNewLCon {
+	border-top: 1px solid #dedede;
+	padding-bottom: 13px;
+}
+
+.FNewLCon dl {
+	margin-top: 4px;
+}
+
+.FNewLCon dl dd {
+	color: #838383;
+	line-height: 20px;
+	padding: 4px 0 6px;
+	height: 60px;
+	overflow: hidden;
+	display: block;
+}
+
+.FNewLCon dl dd.ddh40 {
+	height: 40px;
+}
+
+.FNewLConPic {
+	margin-top: 4px;
+	margin-right: 10px;
+	width: 52px;
+	height: 52px;
+	overflow: hidden;
+}
+
+.FNewLCon dl dt {
+	line-height: 24px;
+	height: 24px;
+}
+
+.FNewLCon dl dt a {
+	color: #004276;
+}
+
+.FNewLCon dl dt a:hover {
+	color: #f54343;
+	text-decoration: underline;
+}
+
+.FNewLCon dl dt em {
+	padding: 0 4px;
+	font-style: normal;
+}
+
+.FNewLAvt {
+	width: 220px;
+	height: 250px;
+	margin-top: 12px;
+	overflow: hidden;
+}

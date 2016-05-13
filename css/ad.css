@@ -1,0 +1,72 @@
+.adFloatClose {
+	width: 77px;
+	height: 31px;
+	background: url("http://y1.ifengimg.com/ifeng/ifeng-index/20160122/floatadclose-z.gif") no-repeat scroll 0% 0% transparent;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	cursor: pointer;
+}
+
+.adFloatDetail {
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin: 0;
+	padding: 0;
+	background: #fff;
+}
+
+.adFloatPlay {
+	width: 25px;
+	height: 21px;
+	background: url("http://y1.ifengimg.com/ifeng/ifeng-index/20160122/floatadrplay.gif") no-repeat scroll center center transparent;
+	margin: 0;
+	padding: 0;
+	cursor: pointer;
+}
+
+.adFloatMinClose {
+	width: 25px;
+	height: 20px;
+	background: url("http://y1.ifengimg.com/ifeng/ifeng-index/20160122/floatadclose.gif") no-repeat scroll center top transparent;
+	margin: 0;
+	padding: 0;
+	cursor: pointer;
+}
+
+.floatBuoybig {
+	_top: expression(documentElement.scrollTop + 150 + "px");
+}
+
+.floatBuoysmall {
+	_top: expression(documentElement.scrollTop + documentElement.clientHeight-150-50+'px');
+}
+
+.Hover {
+	_top: expression(documentElement.scrollTop+documentElement.clientHeight-130+'px');
+}
+
+.viewWindow {
+	_top: expression(documentElement.scrollTop+documentElement.clientHeight-300+'px');
+}
+
+.Floatbig {
+	_top: expression(eval(document.documentElement.scrollTop));
+	_position: absolute;
+}
+
+.Floatsmall {
+	_top: expression(documentElement.scrollTop+documentElement.clientHeight-201+'px');
+	_position: absolute;
+}
+
+.FloatBottombig {
+	_top: expression(documentElement.scrollTop+documentElement.clientHeight-300+'px');
+}
+
+.FloatBottomsmall {
+	_top: expression(documentElement.scrollTop+documentElement.clientHeight-30+'px');
+}

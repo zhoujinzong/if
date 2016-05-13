@@ -1,0 +1,41 @@
+.Rec {
+	height: 58px;
+	padding-top: 20px;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat 0 -405px;
+}
+
+.Rec ul {
+	float: left;
+}
+
+.Rec ul li {
+	width: 250px;
+	float: left;
+}
+
+.RecPic {
+	width: 50px;
+	height: 58px;
+	position: relative;
+	float: left;
+	margin-right: 10px;
+}
+
+.RecPicBor {
+	width: 50px;
+	height: 58px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat 0 -500px;
+	_background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/sprite.gif) no-repeat 0 -500px;
+}
+
+.RecCon {
+	float: left;
+}
+
+.VideoLis a {
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat 0 -594px;
+	padding-left: 18px;
+}

@@ -1,0 +1,75 @@
+* {
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: SimSun, Arial;
+	font-style: inherit;
+	font-size: 100%;
+	padding: 0;
+	margin: 0;
+	border: none;
+}
+
+body {
+	font-size: 12px;
+	font-family: SimSun, Arial;
+}
+
+html {
+	-webkit-text-size-adjust: none;
+}
+
+ol,
+ul {
+	list-style: none;
+}
+
+img {
+	border: none;
+	text-decoration: none;
+	display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: normal;
+	font-size: 12px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a img,
+:link img,
+:visited img {
+	border: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+* html .clearfix {
+	height: 1%;
+}
+
+*+html .clearfix {
+	min-height: 1%;
+}
+
+* html {
+	background-image: url(about:blank);
+	background-attachment: fixed;
+}

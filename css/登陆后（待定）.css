@@ -1,0 +1,63 @@
+.LoginAfter {
+	position: relative;
+}
+
+.welcome {
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat 0 3px;
+	height: 16px;
+	padding: 4px 0 4px 18px;
+}
+
+.LoginAfter a {
+	color: #333;
+	height: 16px;
+	padding: 4px 0 4px 20px;
+}
+
+.LoginAfterName span {
+	color: #004276;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat;
+	padding: 5px 15px;
+	background-position: 7px -195px;
+}
+
+
+/*20141211a*/
+
+.LoginAfterName:hover {
+	color: #f54343;
+	text-decoration: none;
+}
+
+.LoginAfter a.logout {
+	color: #333;
+	background: none;
+	padding-left: 0;
+}
+
+.logout:hover {
+	color: #f54343;
+}
+
+.LoginAfter ul {
+	border: 1px solid #dedede;
+	position: absolute;
+	top: 22px;
+	right: 43px;
+	background: #fff;
+	padding: 0 12px;
+	display: none;
+	z-index: 99;
+}
+
+.LoginAfter ul li {
+	float: none!important;
+	padding: 10px 0;
+	*padding: 11px 0;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat -500px -67px;
+}
+
+.LoginAfter ul li a {
+	padding: 10px 0;
+	background: none;
+}

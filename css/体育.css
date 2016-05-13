@@ -1,0 +1,14 @@
+.ColDLAvt {
+	height: 510px;
+	padding-top: 28px;
+	_padding-top: 28px;
+	*padding-top: 28px;
+	overflow: hidden;
+}
+
+.ColDRAvt {
+	width: 750px;
+	height: 90px;
+	margin-top: 23px;
+	overflow: hidden;
+}

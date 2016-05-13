@@ -1,0 +1,120 @@
+.searchBtn {
+	line-height: 22px;
+	margin: 0 5px 0 0;
+	padding: 4px 4px 4px 23px;
+	width: 24px;
+	height: 14px;
+}
+
+.navFind {
+	width: 378px;
+	padding: 0 0 0 2px;
+	position: relative;
+	z-index: 80;
+	margin-right: 0;
+	background: url(http://y2.ifengimg.com/a/2015/0708/textSearch.gif) no-repeat 0 1px;
+	_padding-bottom: 3px;
+}
+
+.navFind span {
+	float: left;
+	cursor: pointer;
+}
+
+.navFind .text {
+	width: 239px;
+	height: 17px;
+	*height: 16px;
+	_height: 16px;
+	line-height: 17px;
+	*line-height: 16px;
+	_line-height: 16px;
+	padding: 1px 0 0 4px;
+	margin-top: 2px;
+	background: #fff;
+	border: none;
+	color: #646464;
+	font-size: 12px
+}
+
+#searchFormOption {
+	position: relative;
+	float: left;
+	z-index: 80
+}
+
+.sel {
+	width: 46px;
+	height: 18px;
+	line-height: 18px;
+	margin: 1px 9px 0 1px;
+	padding: 1px 0 0 14px;
+	_padding: 2px 0 0 14px;
+	border: none;
+	font-size: 12px;
+	color: #646464;
+}
+
+.sel_hover {
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat -356px 7px;
+}
+
+#loginFldselectop {
+	position: absolute;
+	border: 1px solid #DFDFDF;
+	top: 20px;
+	left: 0;
+	width: 60px;
+	background: #fff;
+	z-index: 99;
+	padding: 2px 0 8px;
+	height: 130px;
+}
+
+#loginFldselectop li {
+	padding: 0;
+	float: none;
+}
+
+#loginFldselectop li a {
+	color: #000000;
+	padding-left: 13px;
+	width: 32px;
+	display: block;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat -686px -100px;
+	padding: 7px 14px 4px;
+	cursor: pointer;
+}
+
+#loginFldselectop li a:hover {
+	color: #f54343;
+}
+
+#ra1 a {
+	background: none!important;
+}
+
+.navFind .button,
+.navFind .button_hover {
+	width: 35px;
+	height: 20px;
+	line-height: 20px;
+	cursor: pointer;
+	margin-top: 1px;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat 0 -1700px;
+	font-size: 12px;
+	border: none;
+}
+
+.navFind .button_hover {
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat -100px -1700px;
+}
+
+.srhClose {
+	width: 10px;
+	height: 10px;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat -200px -1700px;
+	float: right;
+	margin: 6px 10px 0;
+	cursor: pointer;
+}

@@ -1,0 +1,37 @@
+.Avt02 {
+	width: 1000px;
+	margin: 0 auto;
+	border: 1px solid #dedede;
+	overflow: hidden;
+	margin-top: 25px;
+	padding: 10px 0;
+}
+
+.Avt02 ul li {
+	line-height: 22px;
+	height: 22px;
+}
+
+.Avt02 ul li a {
+	color: #6B8295;
+}
+
+.Avt02 ul li a:hover {
+	text-decoration: underline;
+}
+
+.Avt02ul01 {
+	width: 110px;
+	padding: 0 17px 0 19px;
+}
+
+.Avt02ul02 {
+	width: 854px;
+	float: right;
+}
+
+.Avt02ul02 li {
+	float: left;
+	width: 110px;
+	padding: 0 16px;
+}

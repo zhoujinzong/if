@@ -1,0 +1,35 @@
+.NavM {
+	width: 100%;
+	background: #F54343;
+}
+
+.NavMCon {
+	height: 40px;
+}
+
+.NavMCon ul li {
+	height: 29px;
+	float: left;
+	padding: 11px 12px 0 14px;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat 0 -100px;
+}
+
+.NavMCon ul li a {
+	font-size: 16px;
+	color: #fff;
+}
+
+.NavMCon ul li a:hover {
+	text-decoration: underline;
+}
+
+.NavMCon ul li.TV {
+	padding: 11px 0px 0 34px;
+}
+
+
+.NavMCon ul li.TV a {
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat -300px -212px;
+	display: block;
+	padding-left: 24px;
+}

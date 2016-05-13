@@ -1,0 +1,170 @@
+.pdb8 {
+	padding-bottom: 8px;
+}
+
+.sear01,
+.sear03 {
+	width: 218px;
+	height: 20px;
+	padding: 0 0 22px 2px;
+	position: relative;
+	z-index: 80;
+	margin-right: 0;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat 0 -1900px;
+}
+
+.sear03 {
+	padding: 0 0 15px 2px;
+	*padding: 0 0 0 2px;
+	*margin-bottom: 7px;
+}
+
+.sear01 span,
+.sear03 span {
+	float: left;
+	cursor: pointer;
+}
+
+.sear01 .text,
+.sear03 .text {
+	width: 136px;
+	height: 16px;
+	*height: 16px;
+	_height: 16px;
+	line-height: 16px;
+	*line-height: 16px;
+	_line-height: 16px;
+	padding: 0 0 0 4px;
+	margin-top: 2px;
+	background: #fff;
+	border: none;
+	color: #646464;
+	font-size: 12px
+}
+
+#sear01form,
+#sear03form {
+	position: relative;
+	float: left;
+	z-index: 80;
+	margin-left: 1px;
+}
+
+.sear01sel,
+.sear03sel {
+	width: 39px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 12px;
+	color: #646464;
+	padding-left: 6px;
+}
+
+#sear01sellist,
+#sear03sellist {
+	position: absolute;
+	border: 1px solid #DFDFDF;
+	top: 19px;
+	left: -1px;
+	width: 45px;
+	background: #fff;
+	z-index: 99;
+	padding: 2px 0 0;
+	height: 130px;
+}
+
+#sear01sellist li,
+#sear03sellist li {
+	padding: 0;
+	float: none;
+}
+
+#sear01sellist li a,
+#sear03sellist li a {
+	color: #000000;
+	padding-left: 13px;
+	width: 32px;
+	display: block;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat -695px -100px;
+	padding: 7px 5px 4px;
+	cursor: pointer;
+}
+
+#sear01sellist li a:hover,
+#sear03sellist li a:hover {
+	color: #f54343;
+}
+
+#rb1 a,
+#rc1 a {
+	background: none!important;
+}
+
+.sear01btn,
+.sear03btn {
+	width: 30px;
+	height: 20px;
+	line-height: 20px;
+	cursor: pointer;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat -300px -1900px;
+	font-size: 12px;
+	border: none;
+	margin-left: 2px;
+}
+
+.sear01sel_hover,
+.sear03sel_hover {
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat -368px 7px;
+}
+
+.sear02 {
+	width: 218px;
+	height: 20px;
+	padding: 0 0 15px 2px;
+	position: relative;
+	z-index: 80;
+	margin-right: 0;
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/sprite.png) no-repeat -400px -1900px;
+	*_padding-bottom: 6px;
+}
+
+.sear02 span {
+	float: left;
+	cursor: pointer;
+}
+
+.sear02 .text {
+	width: 192px;
+	height: 16px;
+	*height: 16px;
+	_height: 16px;
+	line-height: 16px;
+	*line-height: 16px;
+	_line-height: 16px;
+	padding: 0 0 0 4px;
+	margin-top: 2px;
+	background: #fff;
+	border: none;
+	color: #999;
+	font-size: 12px
+}
+
+.sear02btn {
+	width: 22px;
+	height: 20px;
+	cursor: pointer;
+	border: none;
+	background: none;
+}
+
+.sear04 {
+	padding: 0px 0px 22px 2px;
+}
+
+
+/*0818a patch*/
+
+.ColARTxt ul li {
+	background: none;
+	padding: 0;
+}

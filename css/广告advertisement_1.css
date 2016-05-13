@@ -1,0 +1,39 @@
+.Avt01 {
+	width: 980px;
+	margin: 0 auto;
+	background: #F1F1F1;
+	border-top: 1px solid #dfdfdf;
+	border-bottom: 1px solid #dfdfdf;
+	padding: 10px 10px 0;
+	overflow: hidden;
+}
+
+.Avt01Pic {
+	width: 980px;
+	overflow: hidden;
+}
+
+.Avt01Lis {
+	width: 980px;
+	overflow: hidden;
+}
+
+.Avt01 ul {
+	width: 1050px;
+	padding: 6px 0 5px;
+}
+
+.Avt01 ul li {
+	float: left;
+	width: 145px;
+	line-height: 22px;
+	height: 22px;
+}
+
+.Avt01 ul li a {
+	color: #6B8295;
+}
+
+.Avt01 ul li a:hover {
+	text-decoration: underline;
+}

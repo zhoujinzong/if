@@ -1,0 +1,53 @@
+.Log {
+	height: 66px;
+	_padding-bottom: 6px;
+}
+
+.LogImg {
+	padding: 10px 0 0 15px;
+}
+
+.LogLis {
+	padding-top: 38px;
+}
+
+.Login,
+.LoginAfter,
+.Home {
+	float: left;
+	padding: 5px 10px 0 12px;
+}
+
+.Search,
+.Home {
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) -500px 6px;
+}
+
+.Search {
+	padding: 1px 0 0 6px;
+}
+
+.Login a,
+.Search a,
+.Home a {
+	background: url(http://y1.ifengimg.com/ifeng/ifeng-index/20160122/spritesize47_w1000_h2000.png) no-repeat;
+	color: #333;
+	height: 16px;
+	padding: 4px 0 4px 20px;
+}
+
+.LogLis a:hover {
+	color: #f54343;
+}
+
+.Login a {
+	background-position: 0 3px;
+}
+
+.Search a {
+	background-position: -96px 4px;
+}
+
+.Home a {
+	background-position: -200px 4px;
+}
